@@ -1,0 +1,6 @@
+node_modules/
+dist/
+build/
+shot-*.png
+.freebuff/
+*.local
